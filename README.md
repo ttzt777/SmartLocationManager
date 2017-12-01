@@ -1,0 +1,2 @@
+# SmartLocationManager
+基于LocationManager，优先使用网络定位，当出现异常时切换到GPS定位
